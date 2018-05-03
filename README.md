@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <tital><em>Traveling in China</em></taital>
+    <tital><strong>Traveling in China</strong></taital>
   </head>
 </html>
