@@ -1,2 +1,6 @@
-# Traveling-in-China-
-This website will be introduce some Chinese places that  you may do not know. 
+<!DOCTYPE html>
+<html>
+  <head>
+    <tital><em>Traveling in China</em></taital>
+  </head>
+</html>
