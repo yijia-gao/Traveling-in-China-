@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <tital><strong>Traveling in China</strong></taital>
+    <tital>Traveling in China</taital>
+    <link href="style.css" type="text/css" rel="stylesheet">
   </head>
   <body>
     <h1> What China Like</h1>
