@@ -3,7 +3,6 @@
   <head>
     <tital>Traveling in China</taital>
     <link href="./style.css" type="text/css" rel="stylesheet">
-    <link href="./text.css" type=="text/css" rel="textsheet"
   </head>
   <body>
     <h1> What China Like</h1>
