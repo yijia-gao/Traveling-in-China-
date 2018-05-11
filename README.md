@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <tital>Traveling in China</tital>
-    <link href="./style.css" type="text/css" rel="stylesheet">
-  </head>
-  <body>
-    <h1> What China Like</h1>
-    <div>
-      <img src="http://www.chinamaps.org/images/CHINA.jpg"/>
-      <img src="http://www.cnto.org/wp-content/uploads/2014/04/newchinaworldmap1.jpg"/>
-    </div>
-    <p1>
-      China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous 
+
+<head>
+  <tital>Traveling in China</tital>
+  <link href="./style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <h1> What China Like</h1>
+  <div>
+  <img src="http://www.chinamaps.org/images/CHINA.jpg"/>
+  <img src="http://www.cnto.org/wp-content/uploads/2014/04/newchinaworldmap1.jpg"/>
+  </div>
+  <p1>
+    China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous 
 country, with a population of around 1.404 billion. Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third- 
 or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. 
 Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled 
@@ -32,6 +33,6 @@ defense budget. The PRC is a member of the United Nations, as it replaced the RO
 China is also a member of numerous formal and informal multilateral organizations, including the ASEAN Plus mechanism, WTO, APEC, BRICS, 
 the Shanghai Cooperation Organization (SCO), the BCIM and the G20. China is a great power and a major regional power within Asia, and has 
 been characterized as a potential superpower. 
-    </p1>
-  </body>
+  </p1>
+</body>
 </html>
