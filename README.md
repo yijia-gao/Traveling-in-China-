@@ -27,7 +27,9 @@ second-largest importer of goods  China is a recognized nuclear weapons state an
   </h2>
   <p2>
     A lot of people who never been be China may think China looks like this 
+    <div>
     <img src="https://qph.fs.quoracdn.net/main-qimg-746a280e498e123aeedc64d6f7c2eddb-c"/>
+    </div>
     which really makes suprised,because 
   </p2>
   <a href="https://www.youtube.com/watch?v=jlyQMpwzMt8" target="_blank"> what China looks like in my eyes is like.</a>
