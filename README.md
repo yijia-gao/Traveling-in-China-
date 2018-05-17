@@ -36,11 +36,14 @@ country, with a population of around 1.404 billion. Covering approximately 9,600
   <p2>
     A lot of people who never been be China may think China looks like this 
     <br>
-    <img src="https://qph.fs.quoracdn.net/main-qimg-746a280e498e123aeedc64d6f7c2eddb-c"/>
-    <br>
-    which really makes suprised,because 
+    <img src="https://qph.fs.quoracdn.net/main-qimg-746a280e498e123aeedc64d6f7c2eddb-c"/> 
   </p2>
   <a href="https://www.youtube.com/watch?v=jlyQMpwzMt8" target="_blank"> what China looks like in my eyes is like.</a>
+  <img src="http://img2.chinadaily.com.cn/images/201801/05/5a4eca6ca31008cfb2e9a72a.jpeg"/>
+  <h2>
+    Let's know SOMETHING about some Chinese City
+  </h2>
+  
 </body>
   
 </html>
