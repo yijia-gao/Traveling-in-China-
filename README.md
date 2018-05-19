@@ -42,16 +42,16 @@
   <h2>
     Let's Kown Something About Traveling In China 
   </h2>
-  <p2>
+  <p1>
     As far as we kown, China is a huge country. China has 23 provinces, and each provinces has its capital city, now let introduce some cities to you. 
-  </p2>
-  <h3>
-    The cspital city of China: <a href="./beijing.html">Beijing</a> 
-  </h3>
+  </p1>
+  <h4>
+    The capital city of China: <a href="./beijing.html">Beijing</a> 
+  </h4>
   <br>
-  <h3>
+  <h4>
     The biggest city of China:<a href="./shanghai.html">Shanghai</a>
-  </h3>
+  </h4>
   
 </body>
   
