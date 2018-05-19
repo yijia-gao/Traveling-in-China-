@@ -11,8 +11,7 @@
   <img src="http://www.cnto.org/wp-content/uploads/2014/04/newchinaworldmap1.jpg"/>
   </div>
   <p1>
-    China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous 
-country, with a population of around 1.404 billion. Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+    China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous country, with a population of around 1.404 billion. Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
   <br>
   <div>
     China emerged as one of the world's earliest civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-legendary Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin unified core China and established the first Chinese dynasty. The succeeding Han dynasty saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and printing in the Tang dynasty completed the Four Great Inventions.
@@ -41,8 +40,21 @@ country, with a population of around 1.404 billion. Covering approximately 9,600
   <a href="https://www.youtube.com/watch?v=jlyQMpwzMt8" target="_blank"> what China looks like in my eyes is like.</a>
   <img src="http://img2.chinadaily.com.cn/images/201801/05/5a4eca6ca31008cfb2e9a72a.jpeg"/>
   <h2>
-    Let's know SOMETHING about some Chinese City
+    Let's Kown Something About Traveling In China 
   </h2>
+  <p2>
+    As far as we kown, China is a huge country. China has 23 provinces, and each provinces has its capital city, now let introduce some cities to you. 
+    <h3>
+      The cspital city of China: <a href="./beijing.html">Beijing</a> 
+    </h3>
+    <br>
+    <h3>
+      The biggest city of China:<a href="./shanghai.html">Shanghai</a>
+    </h3>
+    
+    
+    
+  </p2>
   
 </body>
   
