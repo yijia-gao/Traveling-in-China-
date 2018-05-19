@@ -1,5 +1,4 @@
 <html>
-
 <head>
   <title>Traveling in China</title>
   <link href="./style.css" type="text/css" rel="stylesheet">
