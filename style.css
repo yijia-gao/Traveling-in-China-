@@ -10,6 +10,7 @@ p1{
 
 h2{
   font-family: Time New Roman;
+  color:black
 }
 
 p2{
@@ -21,7 +22,7 @@ a{
   font-family: Time New Roman;
 }
 
-p2{
+p1{
   font-family: Time New roman;
 }
 
@@ -30,6 +31,6 @@ h2{
   color: rgb(124, 37, 60)
 }
 
-h3{
+h4{
   font-family: Time New Roman;
 }
