@@ -44,17 +44,14 @@
   </h2>
   <p2>
     As far as we kown, China is a huge country. China has 23 provinces, and each provinces has its capital city, now let introduce some cities to you. 
-    <h3>
-      The cspital city of China: <a href="./beijing.html">Beijing</a> 
-    </h3>
-    <br>
-    <h3>
-      The biggest city of China:<a href="./shanghai.html">Shanghai</a>
-    </h3>
-    
-    
-    
   </p2>
+  <h3>
+    The cspital city of China: <a href="./beijing.html">Beijing</a> 
+  </h3>
+  <br>
+  <h3>
+    The biggest city of China:<a href="./shanghai.html">Shanghai</a>
+  </h3>
   
 </body>
   
